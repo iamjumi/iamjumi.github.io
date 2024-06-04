@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76cab367.css",
+    "main.js": "/static/js/main.c39ea82d.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/Cafe24Ssurround-v2.0.ttf": "/static/media/Cafe24Ssurround-v2.0.70efcf8d91b99f6444fc.ttf",
+    "static/media/Dovemayo_wild.ttf": "/static/media/Dovemayo_wild.83556a72bcf4bb2321ad.ttf",
+    "static/media/myprofile.png": "/static/media/myprofile.ca22bf68831c61b85d75.png",
+    "static/media/reactImage.png": "/static/media/reactImage.9095f617f5349c278481.png",
+    "static/media/typescriptImage.png": "/static/media/typescriptImage.659e4b9351cf1baa6930.png",
+    "static/media/kotlinImage.png": "/static/media/kotlinImage.e0f66c650575bc95338e.png",
+    "static/media/MoveSans-Bold.ttf": "/static/media/MoveSans-Bold.3eb3be8f1d682e2d415c.ttf",
+    "static/media/MoveSans-Medium.ttf": "/static/media/MoveSans-Medium.eed6239f2db286b39341.ttf",
+    "static/media/MoveSans-Light.ttf": "/static/media/MoveSans-Light.5ee5c89395971743db32.ttf",
+    "static/media/androidImage.png": "/static/media/androidImage.fb39b280d64396892677.png",
+    "static/media/htmlImage.png": "/static/media/htmlImage.a92a549a591f4acb527a.png",
+    "static/media/cssImage.png": "/static/media/cssImage.02d225c7df0b28341d8d.png",
+    "static/media/vueImage.png": "/static/media/vueImage.c1488c25e878098bdea0.png",
+    "static/media/javascriptImage.png": "/static/media/javascriptImage.098ed73130c9fdcb3291.png",
+    "index.html": "/index.html",
+    "main.76cab367.css.map": "/static/css/main.76cab367.css.map",
+    "main.c39ea82d.js.map": "/static/js/main.c39ea82d.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76cab367.css",
+    "static/js/main.c39ea82d.js"
+  ]
+}
